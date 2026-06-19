@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Status-In Progress-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-AI Engineer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Software Engineer | Data Analyst | AI/ML-purple?style=for-the-badge" />
 </p>
 
 ---
