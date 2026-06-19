@@ -22,7 +22,7 @@ Every problem I solve, every concept I learn — it goes here. One day at a time
 
 | Topic | Status | Problems Solved |
 |---|---|---|
-| Arrays | 🔄 In Progress | 0 |
+| Arrays | 🔄 In Progress | 1 |
 | Strings | ⏳ Upcoming | 0 |
 | Linked Lists | ⏳ Upcoming | 0 |
 | Stacks & Queues | ⏳ Upcoming | 0 |
