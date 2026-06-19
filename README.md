@@ -1,85 +1,68 @@
-<h1 align="center">🚀 DSA Journey — Vishnu Vardhan Sathani</h1>
+# DSA Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Status-In Progress-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Software Engineer | Data Analyst | AI/ML-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-16a34a?style=for-the-badge" alt="In Progress" />
 </p>
 
----
+This repository documents my structured Data Structures and Algorithms preparation for software engineering interviews. Each solution is organized by topic and written with readability, approach notes, and complexity analysis in mind.
 
-## 📌 What is this repo?
+## Profile Links
 
-This is my personal DSA (Data Structures & Algorithms) journey — documented daily.
+- LeetCode: [atermoiement_](https://leetcode.com/u/atermoiement_/)
+- GitHub: [atermoiement-1](https://github.com/atermoiement-1)
+- LinkedIn: [Vishnu Vardhan](https://www.linkedin.com/in/vishnu-vardhan-1a7591244)
 
-I am an MCA (AI & ML) student at LPU, preparing for AI Engineering roles at top product companies.  
-Every problem I solve, every concept I learn — it goes here. One day at a time. 💪
+## Current Progress
 
----
+| Topic | Status | Problems |
+| --- | --- | --- |
+| Arrays | In progress | 2 |
+| Strings | Planned | 0 |
+| Linked Lists | Planned | 0 |
+| Stacks | Planned | 0 |
+| Queues | Planned | 0 |
+| Trees | Planned | 0 |
+| Graphs | Planned | 0 |
+| Dynamic Programming | Planned | 0 |
 
-## 📈 Progress Tracker
+## Repository Structure
 
-| Topic | Status | Problems Solved |
-|---|---|---|
-| Arrays | 🔄 In Progress | 2 |
-| Strings | ⏳ Upcoming | 0 |
-| Linked Lists | ⏳ Upcoming | 0 |
-| Stacks & Queues | ⏳ Upcoming | 0 |
-| Trees | ⏳ Upcoming | 0 |
-| Graphs | ⏳ Upcoming | 0 |
-| Dynamic Programming | ⏳ Upcoming | 0 |
-| Sorting & Searching | ⏳ Upcoming | 0 |
-
----
-
-## 📂 Folder Structure
+```text
 DSA-Journey/
+|-- Arrays/
+|   |-- 01_two_sum.py
+|   |-- 02_best_time_to_buy_sell_stock.py
+|-- Strings/
+|-- Linked-Lists/
+|-- Stacks/
+|-- Queues/
+|-- Trees/
+|-- Graphs/
+|-- Dynamic-Programming/
+```
 
-│
+## Solution Format
 
-├── Arrays/
+Each solution is expected to include:
 
-│   ├── two_sum.py
+- Problem name and source
+- Intuition or approach
+- Clean Python implementation
+- Time complexity
+- Space complexity
 
-│   ├── best_time_to_buy_sell_stock.py
+## Topics Roadmap
 
-│   └── ...
+| Phase | Topics |
+| --- | --- |
+| Phase 1 | Arrays, Strings, Hashing, Two Pointers |
+| Phase 2 | Linked Lists, Stacks, Queues |
+| Phase 3 | Trees, Binary Search Trees, Heaps |
+| Phase 4 | Graphs, BFS, DFS, Shortest Paths |
+| Phase 5 | Recursion, Backtracking, Dynamic Programming |
 
-│
+## Goal
 
-├── Strings/
-
-├── LinkedLists/
-
-├── Trees/
-
-├── Graphs/
-
-├── DynamicProgramming/
-
-└── SortingSearching/
-
----
-
-## 🧠 My Approach to Every Problem
-
-1. **Read** the problem carefully (twice)
-2. **Understand** what input goes in and what output comes out
-3. **Think** of a brute force solution first
-4. **Optimize** using better data structures or algorithms
-5. **Code** it in Python
-6. **Note** the Time & Space complexity
-
----
-
-## 🔗 Connect with me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishnu-vardhan-1a7591244)
-- 💻 [LeetCode](https://leetcode.com/u/atermoiement_/)
-- 🐙 [GitHub](https://github.com/atermoiement-1)
-- 📧 vishnuvardhan6840@gmail.com
-
----
-
-<p align="center">⭐ If this inspires you, give it a star! Let's grow together 🚀</p>
+Build consistent problem-solving practice and maintain a visible record of interview preparation through frequent commits, clean explanations, and topic-wise progress.
