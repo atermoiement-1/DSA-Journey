@@ -1,4 +1,4 @@
-# DSA Journey
+<h1 align="center">🚀 DSA Journey</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-2563eb?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
