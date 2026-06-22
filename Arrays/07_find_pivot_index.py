@@ -4,6 +4,7 @@ Platform : LeetCode
 Difficulty : Easy
 
 Approach:
+Prefix Sum / Running Sum
 
 Initialize:
 Create two variables:
