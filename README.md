@@ -18,7 +18,7 @@ This repository documents my structured Data Structures and Algorithms preparati
 
 | Topic | Status | Problems |
 | --- | --- | --- |
-| Arrays | In progress | 14 |
+| Arrays | In progress | 16 |
 | Strings | Planned | 2 |
 | Linked Lists | Planned | 0 |
 | Stacks | Planned | 0 |
